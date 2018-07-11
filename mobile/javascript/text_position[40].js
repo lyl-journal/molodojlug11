@@ -1,0 +1,1 @@
+﻿positionForPages[41]=[{word:"Номинация  ",left:0.354045,top:0.000000,width:0.229848,height:0.354045}];
